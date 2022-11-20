@@ -1,7 +1,5 @@
 const Order = require("./assignment1Order");
 
-// eDIT FOR gIThUB
-
 const OrderState = Object.freeze({
   WELCOMING: Symbol("welcoming"),
   ITEM: Symbol("Item"),
